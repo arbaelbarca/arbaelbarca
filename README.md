@@ -1,10 +1,9 @@
 # Hello World, Iam Muhamad Arba
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arbaelbarca&show_icons=true)
-
 I currently work as an android engineer at an Indonesian startup company, namely PT Koltiva, and have experience in android developer for about 3 years,
 from initial build or development
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arbaelbarca&show_icons=true)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arbaelbarca&show_icons=true&theme=radical)
  -->
