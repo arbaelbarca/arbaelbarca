@@ -12,7 +12,10 @@ from initial build or development and I'm also active in the community
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbaelbarca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+# Get in touch with me 
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+
 
 
