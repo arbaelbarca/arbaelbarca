@@ -36,9 +36,6 @@ Hybrid its programming with Flutter and Jetpack Compose with KotlinMultiPlatform
   - **Project Management:** `Jira` • `GitHub Projects` • `Trello` • `Asana`
 
 <br/>
-<br/>
-<br/>
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arbaelbarca&show_icons=true)
 
