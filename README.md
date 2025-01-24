@@ -13,7 +13,7 @@ Hybrid its programming with Flutter and Jetpack Compose with KotlinMultiPlatform
 - Writing `Java`, `Kotlin`, `Jetpack Compose`, `XML`, `SQLLite`, `RoomDB`, `Design Patern`.
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/muhamad-arba-365108131/)**, and **[Instagram](https://www.instagram.com/arbaelbarca/)**.
-- Building currently **[GitProfile](https://github.com/arbaelbarca/gitprofile)**.
+- Building currently **[GitProfile](https://github.com/arbaelbarca/arbaelbarca.github.io)**.
 - My Apps mostly the big download **[PlayStore(ArisanOke)](https://play.google.com/store/apps/details?id=com.arbaelbarca.arisanoke)**.
 
 #### What are my skill sets?
