@@ -10,7 +10,7 @@ Hybrid its programming with Flutter and Jetpack Compose with KotlinMultiPlatform
 
 #### What I'm doing?
 
-- Writing `Java`, `Kotlin`, `Jetpack Compose`, `XML`, `SQLLite`, `RoomDB.js`, `Design Patern`.
+- Writing `Java`, `Kotlin`, `Jetpack Compose`, `XML`, `SQLLite`, `RoomDB`, `Design Patern`.
 - Contributing to Open Source.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/muhamad-arba-365108131/)**, and **[Instagram](https://www.instagram.com/arbaelbarca/)**.
 - Building currently **[GitProfile](https://github.com/arbaelbarca/gitprofile)**.
